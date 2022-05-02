@@ -12,7 +12,7 @@ the game.
 
 ## Requirements
 
- - Python 3
+ - Python 3.9
  - tkinter
 
 ## Notes
